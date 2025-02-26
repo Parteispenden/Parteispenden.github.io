@@ -37,7 +37,19 @@ for x in range(2009, 2026):
                 sup.decompose()
         if len(head) == 5:
             dono = {}
-            dono["Partei"] = head[0].get_text(strip=True)
+            head[0] = head[0].get_text(strip=True)
+            if "höfer" in head[0].lower():
+                head[0] = "Team Todenhöfer"
+            if "grünen" in head[0].lower():
+                head[0] = "Bündnis 90 / Die Grünen"
+            if "volt"in head[0].lower():
+                head[0] = "Volt"
+            if head[0] == "dieBasis":
+                head[0] = "Die Basis"
+            if "Bündnis Sahra Wagenknecht" in head[0]:
+                head[0] = "BSW"
+            
+            dono["Partei"] = head[0]
             
             dono["Spende"] = convert_number_format(head[1].get_text(strip=True))
             
