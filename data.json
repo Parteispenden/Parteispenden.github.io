@@ -1,0 +1,4684 @@
+[
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Frau Johanna Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 300000.0,
+        "Spender": "Substantia AG",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "NPD",
+        "Spende": 140500.0,
+        "Spender": "Robert Weber",
+        "Ort": "98634 Mehmels",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50500.0,
+        "Spender": "REUTAX AG",
+        "Ort": "69115 Heidelberg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 261800.0,
+        "Spender": "YOC AG",
+        "Ort": "10178 Berlin",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60001.0,
+        "Spender": "Allianz AG",
+        "Ort": "80802 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Prof. Dr. h. c. Hermann Schnabel",
+        "Ort": "20097 Hamburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "FERRING Arzneimittel GmbH",
+        "Ort": "24103 Kiel",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Märkischer Arbeitgeberverband e. V.",
+        "Ort": "58095 Hagen",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 120000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Allfinanz Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Allianz Deutschland AG",
+        "Ort": "80802 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 300000.0,
+        "Spender": "Substantia AG",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 70000.0,
+        "Spender": "Verein der Bayerischen Chemischen Industrie e. V.",
+        "Ort": "81679 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "BÜNDNIS 90/ DIE GRÜNEN",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 106000.0,
+        "Spender": "Berenberg Bank",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Dr.-Ing. E. h. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Verband der Chemischen Industrie e. V.",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Allfinanz Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie",
+        "Ort": "80333 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 116317.21,
+        "Spender": "Firma Scheffel Grund GmbH",
+        "Ort": "80939 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 600000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "AGFG",
+        "Spende": 103135.41,
+        "Spender": "Dr. Rath Education Services B.V.",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Prof. Dr. h. c. Hermann Schnabel",
+        "Ort": "20097 Hamburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 170000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70327 Stuttgart",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Deutsche Bank AG",
+        "Ort": "60325 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 250000.0,
+        "Spender": "Substantia AG",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Bertelsmann AG",
+        "Ort": "33311 Gütersloh",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50500.0,
+        "Spender": "REUTAX AG",
+        "Ort": "69115 Heidelberg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "AGFG",
+        "Spende": 83750.0,
+        "Spender": "Dr. Rath Health Programs B.V.",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Deutsche Bank AG",
+        "Ort": "60486 Frankfurt am Main",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 151344.56,
+        "Spender": "Bayerische Motorenwerke AG",
+        "Ort": "80788 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 146776.14,
+        "Spender": "Bayerische Motorenwerke AG",
+        "Ort": "80788 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 110209.37,
+        "Spender": "Bayerische Motorenwerke AG",
+        "Ort": "80788 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 54042.58,
+        "Spender": "Bayerische Motorenwerke AG",
+        "Ort": "80788 München",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Clou Container Leasing GmbH",
+        "Ort": "20148 Hamburg",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "AGFG",
+        "Spende": 77750.0,
+        "Spender": "Dr. Rath Health Programs B.V.",
+        "Jahr": 2009
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "SÜDWESTMETALL Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 80000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),",
+        "Ort": "80333 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 300000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM),",
+        "Ort": "80333 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "Deutsche Vermögensberatung AG,",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Berenberg Bank",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Adolf Würth GmbH & Co. KG,",
+        "Ort": "74653 Künzelsau",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "DVU",
+        "Spende": 1030898.97,
+        "Spender": "Dr. Gerhard Frey",
+        "Ort": "81243 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "NPD",
+        "Spende": 150225.84,
+        "Spender": "Verein zur Pflege nationaler Politik e.V.",
+        "Ort": "72622 Nürtingen",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 160000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 65000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "BÜNDNIS 90/ DIE GRÜNEN",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 60001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 75000.0,
+        "Spender": "Allfinanz Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "DIE LINKE.",
+        "Spende": 100000.0,
+        "Spender": "Dr. Friedhelm Holz",
+        "Ort": "49214 Bad Rothenfelde",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "DIE LINKE.",
+        "Spende": 75000.0,
+        "Spender": "Dr. Friedhelm Holz",
+        "Ort": "49214 Bad Rothenfelde",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 55886.41,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 140033.9,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 133235.62,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 148718.17,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 125000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2010
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 100000.0,
+        "Spender": "Lina Dachner",
+        "Ort": "76135 Karlsruhe",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 113969.15,
+        "Spender": "Dr. Irene Nierstenhöfer",
+        "Ort": "44369 Dortmund",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 80000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 320000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "Bündnis 90/DIE GRÜNEN",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "BÜNDNIS 90/DIE GRÜNEN",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Berenberg Bank Joh. Berenberg, Gossler & Co. KG,",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50001.0,
+        "Spender": "Allianz SE",
+        "Ort": "80802 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50500.0,
+        "Spender": "REUTAX AG",
+        "Ort": "69115 Heidelberg",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 56129.42,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 142331.72,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 95338.1,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 65129.35,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 75000.0,
+        "Spender": "SÜDWESTMETALL Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.,",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2011
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 90000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 65000.0,
+        "Spender": "Verband der Nordwestdeutschen Textil- und Bekleidungsindustrie e.V.",
+        "Ort": "48151 Münster",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 115000.0,
+        "Spender": "Conrad und Dorit von Pentz",
+        "Ort": "26382 Wilhelmshaven",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 80000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 320000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 150000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 57048.34,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 59024.04,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 141500.44,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 109472.88,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2012
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 55000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 80000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "R&W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 90000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 70000.0,
+        "Spender": "Frau Susanne Klatten,",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 70000.0,
+        "Spender": "Frau Johanna Quandt,",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 70000.0,
+        "Spender": "Herr Stefan Quandt,",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 565000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 230000.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 230000.0,
+        "Spender": "Frau Johanna Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 230000.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektro-Industrie NRW e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Märkischer Arbeitgeberverband e.V.",
+        "Ort": "58636 Iserlohn",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 64000.0,
+        "Spender": "Verband der Chemischen Industrie e.V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Verband der Chemischen Industrie e.V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 110000.0,
+        "Spender": "Herr Lüder Möller",
+        "Ort": "23564 Lübeck",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 130000.0,
+        "Spender": "Herr Prof. Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Herr Dr. Ing. E.h. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Prof. Hans Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 80000.0,
+        "Spender": "Frau Marga Süsselbeck",
+        "Ort": "30163 Hannover",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW Verband der Metall- und Elektroindustrie NRW e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Berenberg Bank Joh. Berenberg, Gossler & Co. KG",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 143817.65,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 107376.06,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 69081.24,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80809 München",
+        "Jahr": 2013
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 55000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 80000.0,
+        "Spender": "Südwestmetall",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 300000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro- Industrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 75000.0,
+        "Spender": "Frau Gabi Georgiou",
+        "Ort": "47179 Duisburg",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Firma R & W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 90000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 55000.0,
+        "Spender": "METALL NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 143371.27,
+        "Spender": "Bayerische Motoren Werke AG",
+        "Ort": "80788 München",
+        "Jahr": 2014
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 358000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Dr. Lutz Helmig",
+        "Ort": "36355 Grebenhain-Bermuthshain",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 250000.0,
+        "Spender": "Firma R & W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 252400.0,
+        "Spender": "Helmut Klamser",
+        "Ort": "46147 Oberhausen",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 90000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Trumpf GmbH & Co. KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Herr Dr. Georg Kofler",
+        "Ort": "83700 Rottach-Egern",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Herr Prof. Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2015
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 100000.0,
+        "Spender": "Frau Dr. Marianne Zubrzycki-Lederhausen",
+        "Ort": "53113 Bonn",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 51000.0,
+        "Spender": "Joh. Berenberg, Gossler & Co. KG",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 350000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V., Löffelstraße 22–24",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Berenberg Bank Joh. Berenberg, Gossler & Co. KG",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 70000.0,
+        "Spender": "Herr Michael May",
+        "Ort": "47443 Moers",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Firma R & W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 90000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 90000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Dr. Arend Oetker",
+        "Ort": "14193 Berlin",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 118518.0,
+        "Spender": "Sydslesvigudvalget/",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 299989.0,
+        "Spender": "Herr Jochen Wermuth",
+        "Ort": "10117 Berlin",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 100000.0,
+        "Spender": "Frau Sonja Borgwardt",
+        "Ort": "44625 Herne",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 118518.0,
+        "Spender": "Sydslesvigudvalget/",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 118518.0,
+        "Spender": "Sydslesvigudvalget/",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 300000.0,
+        "Spender": "Herr Jochen Wermuth",
+        "Ort": "10117 Berlin",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Andreas Lapp",
+        "Ort": "70563 Stuttgart",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "TRUMPF GmbH + Co. KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 118518.0,
+        "Spender": "Sydslesvigudvalget/",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Professor Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2016
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 650000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden- Württemberg e.V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 250000.0,
+        "Spender": "Herr Wolfgang Göller",
+        "Ort": "45772 Marl",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 80000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 80000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Frau Ibeth Biermann",
+        "Ort": "60528 Frankfurt am Main",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Herr Prof. Hans Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Andreas Lapp",
+        "Ort": "70563 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 200000.0,
+        "Spender": "Herr Jochen Wermuth",
+        "Ort": "10117 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Prof. Dr. Hans Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 73000.0,
+        "Spender": "Herr Dr. Leo Plank",
+        "Ort": "80539 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Klaus Groth",
+        "Ort": "10707 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 120595.95,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 70000.0,
+        "Spender": "Verband der Chemischen Industrie e. V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 75000.0,
+        "Spender": "Verband der Chemischen Industrie e. V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Verband der Chemischen Industrie e. V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50100.0,
+        "Spender": "Verena Pausder",
+        "Ort": "10435 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Ralf Pollmeier",
+        "Ort": "99831 Creuzburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 300000.0,
+        "Spender": "FKH Beteiligungs SE",
+        "Ort": "80333 München",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Droege Group AG",
+        "Ort": "40213 Düsseldorf",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50100.0,
+        "Spender": "Herr Lars Dittrich",
+        "Ort": "10707 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 68000.0,
+        "Spender": "Dr. August Oetker KG",
+        "Ort": "33617 Bielefeld",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 55000.0,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 90000.0,
+        "Spender": "Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Patrick Schwarz-Schütte",
+        "Ort": "40629 Düsseldorf",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 110000.0,
+        "Spender": "Metall NRW - Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Fa. R+W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Prof. Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Prof. Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 120563.53,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "VHB Grundstücksverwaltung und Beteiligung GmbH & Co. KG",
+        "Ort": "10707 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Dr. Georg Kofler",
+        "Ort": "83700 Rottach-Egern",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Ralph Dommermuth",
+        "Ort": "56410 Montabaur",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Prof. Hans-Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Frank Hansen",
+        "Ort": "74523 Schwäbisch Hall",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "TRUMPF GmbH + Co. KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 56310.0,
+        "Spender": "R+W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Firma Dr. Theiss Naturwaren GmbH",
+        "Ort": "66424 Homburg",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 83535.0,
+        "Spender": "Hans Horst Grosspeter",
+        "Ort": "50858 Köln",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 120641.36,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "Dr. Georg Jakob Kofler",
+        "Ort": "83700 Rottach-Egern",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Herr Alexander Mecking",
+        "Ort": "65189 Wiesbaden",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 110000.0,
+        "Spender": "Dr. Arend Oetker",
+        "Ort": "14193 Berlin",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 300000.0,
+        "Spender": "Dr. Lutz Helmig",
+        "Ort": "36355 Grebenhain-Bermuthshain",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 120250.0,
+        "Spender": "Sydslesvigudvalget/",
+        "Jahr": 2017
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 110000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Südwestmetall, Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70597 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 625000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 66000.0,
+        "Spender": "WID Unternehmergesellschaft",
+        "Ort": "70736 Fellbach",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 80000.0,
+        "Spender": "Frau Lena Goltz",
+        "Ort": "65428 Rüsselsheim",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "R + W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 98500.0,
+        "Spender": "Herr Dr. Leo Plank",
+        "Ort": "80539 München",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 80000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 80000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e. V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 121529.27,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50249.17,
+        "Spender": "Herr Christian Lindner",
+        "Ort": "40215 Düsseldorf",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 260000.0,
+        "Spender": "Herr Prof. Dr. Hans-Joachim Langmann",
+        "Ort": "64342 Seeheim-Jugenheim",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 121633.36,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Klaus Groth",
+        "Ort": "10707 Berlin",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "DKP",
+        "Spende": 352420.5,
+        "Spender": "Herr Andreas Zechmeister",
+        "Ort": "63619 Bad Orb",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Daimler AG",
+        "Ort": "70546 Stuttgart",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 122105.38,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Herr Dietmar Bücher",
+        "Ort": "65510 Idstein",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 112123.41,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyreisen",
+        "Jahr": 2018
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70191 Stuttgart",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 140000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70191 Stuttgart",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70191 Stuttgart",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 390000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "WI Bad Wörishofen GmbH",
+        "Ort": "86825 Bad Wörishofen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "Die Linke",
+        "Spende": 60000.0,
+        "Spender": "Herr Helmuth Herold",
+        "Ort": "01129 Dresden",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Herr Klaus Groth",
+        "Ort": "10707 Berlin",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 80000.0,
+        "Spender": "Evonik Industries AG",
+        "Ort": "45128 Essen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 122905.49,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 50055.0,
+        "Spender": "Herr Kai Müller-Horn",
+        "Ort": "40472 Düsseldorf",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 76650.0,
+        "Spender": "Herr Rainer Opolka",
+        "Ort": "15864 Wendisch-Rietz",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Herr Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 122912.34,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 55000.0,
+        "Spender": "METALL NRW, Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 60000.0,
+        "Spender": "Herr Fritz Hofmann",
+        "Ort": "99817 Eisenach",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Firma R+W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "Volt Deutsch-land",
+        "Spende": 95000.0,
+        "Spender": "Herr Christian Burchard Max Oldendorff",
+        "Ort": "20148 Hamburg",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 122968.33,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 95000.0,
+        "Spender": "Herr Prof. Georg Nemetschek",
+        "Ort": "80469 München",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 122904.11,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "Bündnis90/DieGrünen",
+        "Spende": 65000.0,
+        "Spender": "Herr Antonis Schwarz",
+        "Ort": "12047 Berlin",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "Bündnis90/DieGrünen",
+        "Spende": 120000.0,
+        "Spender": "Herr Frank Hansen",
+        "Ort": "74523 Schwäbisch Hall",
+        "Jahr": 2019
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Gröner Family Office GmbH",
+        "Ort": "14197 Berlin",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 225000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 340000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Südwestmetall Verband der Metall- und Elektroindustrie Baden-Württemberg e. V.",
+        "Ort": "70191 Stuttgart",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Harald Christ",
+        "Ort": "10707 Berlin",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124226.95,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 51855.65,
+        "Spender": "Klartext GmbH",
+        "Ort": "47877 Willich",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 60000.0,
+        "Spender": "Klaus Huber",
+        "Ort": "10997 Berlin",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124335.27,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Wolfgang von Moers",
+        "Ort": "50968 Köln",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 123790.62,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 79000.0,
+        "Spender": "Dietmar Bücher",
+        "Ort": "65510 Idstein",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Christoph Gröner",
+        "Ort": "10627 Berlin",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 100000.0,
+        "Spender": "Christian Krawinkel",
+        "Ort": "10117 Berlin",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 50031.24,
+        "Spender": "Gisela Stein-Gallach",
+        "Ort": "44867 Bochum",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Sachsenmilch Anlagen Holding GmbH",
+        "Ort": "01454 Wachau",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 123701.41,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2020
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 750000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 120000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124260.26,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 52000.0,
+        "Spender": "Günter Slave",
+        "Ort": "01127 Dresden",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Freie Wähler",
+        "Spende": 89000.0,
+        "Spender": "Max Aicher",
+        "Ort": "83395 Freilassing",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 250000.0,
+        "Spender": "Luton Verwaltungs GmbH",
+        "Ort": "10117 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 250000.0,
+        "Spender": "Luton Verwaltungs GmbH",
+        "Ort": "10117 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Themis Beteiligungs AG",
+        "Ort": "82031 Grünwald",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Wanja Oberhof",
+        "Ort": "10707 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Die Linke",
+        "Spende": 55000.0,
+        "Spender": "Helmtraut Klara",
+        "Ort": "12527 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Carsten Maschmeyer",
+        "Ort": "80802 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 75000.0,
+        "Spender": "Pollmeier Massivholz GmbH & Co. KG",
+        "Ort": "99831 Amt Creuzburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 52000.0,
+        "Spender": "SPG & Co. Berlin Projektentwicklungsgesellschaft mbH",
+        "Ort": "10707 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 100000.0,
+        "Spender": "Thomas Keßler",
+        "Ort": "72336 Balingen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 1250000.0,
+        "Spender": "Steven Schuurman",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 250000.0,
+        "Spender": "Sebastian Schels",
+        "Ort": "93047 Regensburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Droege Group AG",
+        "Ort": "40213 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "VÖLKEL GmbH",
+        "Ort": "42855 Remscheid",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Ingo Horst Wilhelm Hillen",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Harald Link",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.01,
+        "Spender": "Mähren AG",
+        "Ort": "10709 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 250000.0,
+        "Spender": "Professor Otto Max Hans-Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "TRUMPF GmbH + Co. KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "dieBasis",
+        "Spende": 59270.92,
+        "Spender": "Bode Immobilien GmbH + Co. KG",
+        "Ort": "21031 Hamburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Woolworth GmbH",
+        "Ort": "59425 Unna",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "TEDI GMBH & Co. KG",
+        "Ort": "44309 Dortmund",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Dr. Ing. E.h. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Ralph Dommermuth",
+        "Ort": "56410 Montabaur",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 250000.0,
+        "Spender": "Professor Hans Georg Näder",
+        "Ort": "37115 Duderstadt",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Ralph Dommermuth",
+        "Ort": "56410 Montabaur",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "André Kolbinger",
+        "Ort": "15345 Eggersdorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Fritz Seikowsky",
+        "Ort": "80539 München",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Verband der Metall- und Elektro-Industrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Ulrich Horst Marseille",
+        "Ort": "22335 Hamburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Andreas Lapp",
+        "Ort": "70563 Stuttgart",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Dr. Ing. E.h. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Gröner",
+        "Ort": "14197 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Dr. Walter Wübben",
+        "Ort": "50968 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Droege Group AG",
+        "Ort": "40213 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 150000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 121381.16,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Maria-Theresia von Seidlein",
+        "Ort": "82031 Grünwald",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124300.25,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Dr. Klaus Hommels",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Dr. Klaus Hommels",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.01,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 70000.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Die PARTEI",
+        "Spende": 280007.0,
+        "Spender": "Global Shopping Collective GmbH",
+        "Ort": "15806 Zossen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Nico Mader",
+        "Ort": "70374 Stuttgart",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Dr. Tillmann Miritz",
+        "Ort": "37085 Göttingen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 68548.0,
+        "Spender": "Flossbach von Storch AG",
+        "Ort": "50679 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 431452.0,
+        "Spender": "Flossbach von Storch AG",
+        "Ort": "50679 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Frank Hansen",
+        "Ort": "74523 Schwäbisch Hall",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Verband der Chemischen Industrie e. V.",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Tobias Hagenmeyer",
+        "Ort": "50968 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Thomas Frank Maximilian Toporowicz",
+        "Ort": "40237 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 750000.0,
+        "Spender": "Dr. Georg Jakob Kofler",
+        "Ort": "10115 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Klaus-Michael Kühne",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "ANH Hausbesitz GmbH & Co KG",
+        "Ort": "59755 Arnsberg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 1000000.0,
+        "Spender": "Moritz Schmidt",
+        "Ort": "17489 Greifswald",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51000.0,
+        "Spender": "Patrick Anton Walther Schwarz-Schütte",
+        "Ort": "40629 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124291.92,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 52000.0,
+        "Spender": "Jürgen Reckin",
+        "Ort": "17217 Penzlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Ludgerus Inholte",
+        "Ort": "22043 Hamburg",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Patrick Schwarz-Schütte",
+        "Ort": "40629 Düsseldorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Dr. Patrick Adenauer",
+        "Ort": "50676 Köln",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Frank Hansen",
+        "Ort": "74523 Schwäbisch Hall",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Bündnis 90/Die Grünen",
+        "Spende": 500000.0,
+        "Spender": "Antonis Schwarz",
+        "Ort": "12047 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Dr. Arend Oetker",
+        "Ort": "14193 Berlin",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Barbara Braun-Lüdicke",
+        "Ort": "34212 Melsungen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 124569.21,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "dieBasis",
+        "Spende": 60000.0,
+        "Spender": "Weiland Stallbau GmbH & Co. KG",
+        "Ort": "37242 Bad Sooden-Allendorf",
+        "Jahr": 2021
+    },
+    {
+        "Partei": "Team Todenhöfer",
+        "Spende": 1751132.0,
+        "Spender": "Dr. Jürgen Todenhöfer",
+        "Ort": "80331 München",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 350000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektroindustrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "Volt Deutsch-land",
+        "Spende": 50001.0,
+        "Spender": "JoinPolitics Fund I GmbH  Co. KG",
+        "Ort": "10435 Berlin",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50050.5,
+        "Spender": "Axel Vollmann",
+        "Ort": "45549 Sprockhövel",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "DKP",
+        "Spende": 270255.0,
+        "Spender": "Andreas Zechmeister",
+        "Ort": "83819 Bad Orb",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Dr. Angelika Lehnert",
+        "Ort": "01796 Pirna",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 55000.0,
+        "Spender": "Verband der Metall- und Elektro-Industrie Nordrhein-",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125602.0,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet;",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125782.36,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "CRASH Beteiligungs GmbH & Co. KG",
+        "Ort": "26180 Rastede",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 65000.0,
+        "Spender": "Per Fragemann",
+        "Ort": "10178 Berlin",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 75001.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 65000.0,
+        "Spender": "Klaus-Michael Kühne",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125571.55,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Thomas Hagedorn Holding GmbH",
+        "Ort": "33334 Gütersloh",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "DKP",
+        "Spende": 80000.0,
+        "Spender": "Hans Eberhard Schmitt-Lermann",
+        "Ort": "81243 München",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125505.93,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet, Kulturstyrelsen",
+        "Jahr": 2022
+    },
+    {
+        "Partei": "Die Gerechtig­keitspartei - Team Toden­höfer",
+        "Spende": 67240.0,
+        "Spender": "Dr. Jürgen Todenhöfer",
+        "Ort": "80331 München",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 569962.0,
+        "Spender": "Verband der Bayerischen",
+        "Ort": "80333 München",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen",
+        "Ort": "80333 München",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Christoph Alexander Kahl",
+        "Ort": "50968 Köln",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "VoltDeutsch­landPartei",
+        "Spende": 250000.0,
+        "Spender": "Thadaeus Otto",
+        "Ort": "38640 Goslar",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50001.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 137296.96,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet;",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 125690.28,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50001.0,
+        "Spender": "Sixt GmbH & Co Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Sixt GmbH & Co Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 83850.0,
+        "Spender": "Daniela Porsche",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 137458.76,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet;",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Christ&Company Consulting GmbH",
+        "Ort": "10719 Berlin",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 51000.0,
+        "Spender": "Christ&Company Consulting GmbH",
+        "Ort": "10719 Berlin",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 51000.0,
+        "Spender": "Christ&Company Consulting GmbH",
+        "Ort": "10719 Berlin",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 51000.0,
+        "Spender": "Christ&Company Consulting GmbH",
+        "Ort": "10719 Berlin",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 54492.48,
+        "Spender": "ESC Ingenieursgesellschaft für Softwareentwicklung mbH",
+        "Ort": "22041 Hamburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 65000.0,
+        "Spender": "Klaus-Michael Kühne",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125660.85,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet;",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SSW",
+        "Spende": 125561.45,
+        "Spender": "Sydslesvigudvalget/ Kulturministeriet;",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 55000.0,
+        "Spender": "Ludgerus Inholte",
+        "Ort": "22043 Hamburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 265050.0,
+        "Spender": "Harmut Issmer",
+        "Ort": "99423 Weimar",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 51901.23,
+        "Spender": "Ulrich Horst Marseille",
+        "Ort": "22335 Hamburg",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Jochen Wermuth",
+        "Ort": "10117 Berlin",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "Bündnis 90 / Die Grünen",
+        "Spende": 50001.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2023
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 35001.0,
+        "Spender": "Verband der Bayerischen Metall und Elektro-Industrie e. V.",
+        "Ort": "80333 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e. V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Jörg Bantleon",
+        "Ort": "80799 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Futrue GmbH",
+        "Ort": "82166 Gräfelfing",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Joh. Berenberg",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Freie Wähler",
+        "Spende": 66000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro- Industrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 341000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro- Industrie e.V. (VBM)",
+        "Ort": "80333 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Elmar Reiss",
+        "Ort": "60323 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 100000.0,
+        "Spender": "Sixt GmbH & Co.",
+        "Ort": "82049 Pullach",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Jochen Wermuth",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Elmar Reiss",
+        "Ort": "60323 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Socrates Beteiligungsgesellschaft mbH",
+        "Ort": "14050 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 60000.0,
+        "Spender": "Socrates Beteiligungsgesellschaft mbH",
+        "Ort": "14050 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 500000.0,
+        "Spender": "Dieter Albert Richard Morszeck",
+        "Ort": "50678 Köln",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 45000.0,
+        "Spender": "Gesamtverband der Arbeitgeberverbände der Metall- und Elektro-industrie e.V.",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Ulrich Lenz",
+        "Ort": "93047 Regensburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Gisela Wendling-Lenz",
+        "Ort": "93047 Regensburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 45000.0,
+        "Spender": "Gesamtmetall / Gesamtverband der Arbeitgeberverbände der Metall- und Elektro-Industrie e.V.",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Futrue GmbH",
+        "Ort": "82166 Gräfelfing",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "SolWo Holding GmbH",
+        "Ort": "10553 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Hagedorn Management GmbH",
+        "Ort": "33334 Gütersloh",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Dr. Wolfgang Reitzle",
+        "Ort": "85586 Poing",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "R & W Industriebeteiligungen GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Tao Tao c/o GetYourGuide",
+        "Ort": "10437 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "Harald Christ, c/o Christ & Company Consulting GmbH",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Jürgen B. Harder",
+        "Ort": "69120 Heidelberg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Harald Christ",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 40000.0,
+        "Spender": "Harald Christ",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 40000.0,
+        "Spender": "Harald Christ, c/o Christ & Company Consulting GmbH",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 40000.0,
+        "Spender": "Harald Christ",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Philipp Möller c/o Möller & Förster GmbH & Co.KG",
+        "Ort": "22339 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50001.0,
+        "Spender": "Philip Harting",
+        "Ort": "32312 Lübbecke",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Ulrich Horst Marseille",
+        "Ort": "22335 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100001.0,
+        "Spender": "Philip Harting",
+        "Ort": "32312 Lübbecke",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 45000.0,
+        "Spender": "General Logistics Systems Germany GmbH + Co OHG",
+        "Ort": "36286 Neuenstein",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Joh. Berenberg, Gossler & Co. KG",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100001.0,
+        "Spender": "Stefan Klocke",
+        "Ort": "76534 Baden-Baden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Johannes Reck c/o GetYourGuide",
+        "Ort": "10437 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Philipp Freise",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Stephen Orenstein",
+        "Ort": "60313 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Petra Orenstein",
+        "Ort": "60313 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 47000.0,
+        "Spender": "Dr. Theiss Naturwaren GmbH",
+        "Ort": "66424 Homburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung Aktiengesellschaft DVAG",
+        "Ort": "60329 Frankfurt",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Dr. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "Gunnar Wagner",
+        "Ort": "24159 Kiel",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Martin Kühl",
+        "Ort": "10555 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 95000.0,
+        "Spender": "Henning May",
+        "Ort": "50823 Köln",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 170000.0,
+        "Spender": "Athos KG",
+        "Ort": "83607 Holzkirchen",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Nico Mader",
+        "Ort": "70374 Stuttgart",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Harald Link",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 100000.0,
+        "Spender": "Deutsche Vermögensberatung Aktiengesellschaft DVAG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Deutsche Vermögensberatung Aktiengesellschaft DVAG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "Dr. Theiss Naturwaren GmbH",
+        "Ort": "66424 Homburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "HC Hagemann GmbH & Co. KG",
+        "Ort": "21079 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 60000.0,
+        "Spender": "Verband der Metall- und Elektroindustrie Nordrhein-Westfalen e.V.",
+        "Ort": "40474 Düsseldorf",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Hans-Peter Stihl",
+        "Ort": "71686 Remseck",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "August Storck KG",
+        "Ort": "13403 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Joh. Berenberg, Gossler & Co. KG",
+        "Ort": "20354 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Philipp Graf Schack von Wittenau",
+        "Ort": "40213 Düsseldorf",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Volt Deutschland",
+        "Spende": 1000000.0,
+        "Spender": "Thadaeus Friedemann Otto",
+        "Ort": "38640 Goslar",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis Sahra Wagenknecht -­Vernunft und Gerechtigkeit",
+        "Spende": 50000.0,
+        "Spender": "Horizontwerke GmbH",
+        "Ort": "79102 Freiburg im Breisgau",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Göpel Vermögensverwaltung",
+        "Ort": "04107 Leipzig",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 60000.0,
+        "Spender": "Dr. Theiss Naturwaren GmbH",
+        "Ort": "66424 Homburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 300000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Andreas Lapp",
+        "Ort": "70563 Stuttgart",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "Dirk Ahlers",
+        "Ort": "22761 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Deutsche Vermögensberatung AG",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 160000.0,
+        "Spender": "Aquila Capital Holding GmbH",
+        "Ort": "20355 Hamburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Geschwister Oetker Beteiligungen KG",
+        "Ort": "33602 Bielefeld",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 43751.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Trumpf SE + Co KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 42501.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Andreas Bremke",
+        "Ort": "59755 Arnsberg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 80000.0,
+        "Spender": "Dr. Bartl Wimmer",
+        "Ort": "83471 Berchtesgaden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Hans-Helmuth Walter Schmidt",
+        "Ort": "52353 Düren",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50000.0,
+        "Spender": "Georg Nemetschek",
+        "Ort": "80469 München",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis Sahra Wagenknecht -­Vernunft und Gerechtigkeit",
+        "Spende": 1200000.0,
+        "Spender": "BSW - Für Vernunft und Gerechtigkeit e.V.",
+        "Ort": "76135 Karlsruhe",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 140000.0,
+        "Spender": "Susanne Roswitha Wagner",
+        "Ort": "45899 Gelsenkirchen",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Volt Deutschland",
+        "Spende": 180000.0,
+        "Spender": "Thadaeus Friedemann Otto",
+        "Ort": "38640 Goslar",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 42907.5,
+        "Spender": "Susanne Roswitha Wagner",
+        "Ort": "45899 Gelsenkirchen",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50000.0,
+        "Spender": "Campact e. V.",
+        "Ort": "27283 Verden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Dr. Karl Gerhold",
+        "Ort": "39128 Magdeburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 110000.0,
+        "Spender": "Campact e. V.",
+        "Ort": "27283 Verden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 72000.0,
+        "Spender": "Campact e. V.",
+        "Ort": "27283 Verden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "MLPD",
+        "Spende": 50000.0,
+        "Spender": "Peter Josef Bäuerle",
+        "Ort": "71063 Sindelfingen",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Frau Susanne Klatten",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "WerteUnion",
+        "Spende": 50000.0,
+        "Spender": "WerteUnion Förderverein e. V.",
+        "Ort": "67512 Worms",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "WerteUnion",
+        "Spende": 50000.0,
+        "Spender": "WerteUnion Förderverein e. V.",
+        "Ort": "67512 Worms",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "WerteUnion",
+        "Spende": 50000.0,
+        "Spender": "WerteUnion Förderverein e. V.",
+        "Ort": "67512 Worms",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Karl Gerhold",
+        "Ort": "39128 Magdeburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50001.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 36000.0,
+        "Spender": "COMERON Hotel Einkaufs- und Beratungsgesellschaft mbH",
+        "Ort": "10789 Berlin",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 161300.0,
+        "Spender": "Campact e. V.",
+        "Ort": "27283 Verden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "Die Linke",
+        "Spende": 68038.0,
+        "Spender": "Campact e. V.",
+        "Ort": "27283 Verden",
+        "Jahr": 2024
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Friedrich Andreae",
+        "Ort": "83703 Gmund am Tegernsee",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "HRS GmbH",
+        "Ort": "50668 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 141996.75,
+        "Spender": "MMI Leisure & Capital Management GmbH",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 70000.0,
+        "Spender": "Klaus-Michael Kühne",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 56859.39,
+        "Spender": "MMI Leisure & Capital Management GmbH",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Roland Oetker",
+        "Ort": "40489 Düsseldorf",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 75000.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Droege Group AG",
+        "Ort": "40213 Düsseldorf",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 75000.0,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Nikolaus Knauf",
+        "Ort": "97348 Markt Einersheim",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50000.0,
+        "Spender": "Pollmeier Massivholz GmbH & Co.KG",
+        "Ort": "99831 Amt Creuzburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 100000.0,
+        "Spender": "Gisela Wendling-Lenz",
+        "Ort": "93047 Regensburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Stefan Quandt",
+        "Ort": "61352 Bad Homburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Johannes Schuetze Holding AG",
+        "Ort": "22083 Hamburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Stephan Schambach",
+        "Ort": "10117 Berlin",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 40000.0,
+        "Spender": "Dr. Leo Plank",
+        "Ort": "85356 Freising",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50000.0,
+        "Spender": "Daniela Porsche",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 75000.0,
+        "Spender": "Dr. Martin Herrenknecht",
+        "Ort": "77963 Schwanau",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "fux4future GmbH",
+        "Ort": "65201 Wiesbaden",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 1500000.0,
+        "Spender": "Media Force GmbH",
+        "Ort": "41061 Mönchengladbach",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Wolfgang von Moers",
+        "Ort": "50968 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Kurt von Storch",
+        "Ort": "50679 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Andreas Bremke",
+        "Ort": "59755 Arnsberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "agido GmbH",
+        "Ort": "44263 Dortmund",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Carsten Maschmeyer",
+        "Ort": "80539 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Karl Gerhold",
+        "Ort": "39128 Magdeburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Volt Deutschland",
+        "Spende": 75000.0,
+        "Spender": "Christian Oldendorff",
+        "Ort": "20123 Milano",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Jan-Dirk Lüders",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "VÖLKEL GmbH",
+        "Ort": "42855 Remscheid",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Hagedorn Management GmbH",
+        "Ort": "33334 Gütersloh",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 2349906.62,
+        "Spender": "Gerhard Dingler",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "TRUMPF SE + Co. KG",
+        "Ort": "71254 Ditzingen",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 275000.0,
+        "Spender": "Dr. Ralph Neukirchen",
+        "Ort": "65760 Eschborn",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Peter Jungen Holding GmbH",
+        "Ort": "50968 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Tadeusz Cymermann",
+        "Ort": "45219 Essen",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 35001.0,
+        "Spender": "Global Foods Trading GmbH",
+        "Ort": "64584 Biebesheim am Rhein",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Die Linke",
+        "Spende": 300000.0,
+        "Spender": "Nikolaos Fostiropoulos",
+        "Ort": "76139 Karlsruhe",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Axel Theiler",
+        "Ort": "86807 Buchloe",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 60000.0,
+        "Spender": "Achim Theiler",
+        "Ort": "86807 Buchloe",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Viessmann Generations Group GmbH+Co.KG",
+        "Ort": "35088 Battenberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Viessmann Generations Group GmbH+Co.KG",
+        "Ort": "35088 Battenberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 255000.0,
+        "Spender": "Viessmann Generations Group GmbH+Co.KG",
+        "Ort": "35088 Battenberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50000.0,
+        "Spender": "Viessmann Generations Group GmbH+Co.KG",
+        "Ort": "35088 Battenberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 100000.0,
+        "Spender": "Viessmann Generations Group GmbH+Co.KG",
+        "Ort": "35088 Battenberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Carsten Berrar",
+        "Ort": "61348 Bad Homburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "BSW",
+        "Spende": 52201.46,
+        "Spender": "Verein BSW - Vernunft und Gerechtigkeit e.V. i.L.",
+        "Ort": "76135 Karlsruhe",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 999990.0,
+        "Spender": "Horst Jan Winter",
+        "Ort": "99444 Blankenhain",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "August Storck KG",
+        "Ort": "13403 Berlin",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Ulrich Humbaur",
+        "Ort": "83700 Rottach-Egern",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 200000.0,
+        "Spender": "Carsten Maschmeyer",
+        "Ort": "80539 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 200000.0,
+        "Spender": "Carsten Maschmeyer",
+        "Ort": "80539 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Dr. Brigitte Gotthardt",
+        "Ort": "56070 Koblenz",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "Frank Gotthardt",
+        "Ort": "56070 Koblenz",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Hanno Renner",
+        "Ort": "80335 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 100000.0,
+        "Spender": "Futrue GmbH",
+        "Ort": "82166 Gräfelfing",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "AfD",
+        "Spende": 1500000.0,
+        "Spender": "Prof. Dr. Winfried Alexander Stöcker",
+        "Ort": "23627 Groß Grönau",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Frank Gotthardt",
+        "Ort": "56070 Koblenz",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 80020.0,
+        "Spender": "Dr. Brigitte Gotthardt",
+        "Ort": "56070 Koblenz",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Harald-Blauzahn GmbH",
+        "Ort": "04509 Schönwölkau",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Prof. Dr. Max Schlereth",
+        "Ort": "80469 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Ralph Dommermuth",
+        "Ort": "56410 Montabaur",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Ralph Dommermuth",
+        "Ort": "56410 Montabaur",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Dr. Arend Oetker",
+        "Ort": "14193 Berlin",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Freie Wähler",
+        "Spende": 52000.0,
+        "Spender": "Verband der Bayerischen Metall- und Elektro-Industrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 132000.0,
+        "Spender": "Aquila Capital Holding GmbH",
+        "Ort": "20355 Hamburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "vbm -",
+        "Ort": "80333 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 500000.0,
+        "Spender": "Bitpanda GmbH",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 272000.0,
+        "Spender": "vbm -",
+        "Ort": "80333 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 500000.0,
+        "Spender": "Bitpanda GmbH",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 100000.0,
+        "Spender": "Futrue GmbH",
+        "Ort": "82166 Gräfelfing",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 250000.0,
+        "Spender": "Bitpanda GmbH",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 500000.0,
+        "Spender": "Bitpanda GmbH",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 40000.0,
+        "Spender": "Mischau BB GmbH",
+        "Ort": "90419 Nürnberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Florian Rehm",
+        "Ort": "38302 Wolfenbüttel",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 50000.0,
+        "Spender": "Verband der Chemischen Industrie e.V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 100000.0,
+        "Spender": "MMI Leisure & Capital Management GmbH",
+        "Ort": "40212 Düsseldorf",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 100000.0,
+        "Spender": "Futrue GmbH",
+        "Ort": "82166 Gräfeling",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Jan-Christoph Peters",
+        "Ort": "65520 Bad Camberg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Heinz Schmidt c/o Heinrich Schmidt GmbH & Co.KG",
+        "Ort": "41238 Mönchengladbach",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "fux4future GmbH",
+        "Ort": "65201 Wiesbaden",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 150000.0,
+        "Spender": "Verband der Chemischen Industrie e.V. (VCI)",
+        "Ort": "60329 Frankfurt am Main",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Dorothea Berendes",
+        "Ort": "32676 Lügde",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CSU",
+        "Spende": 50000.0,
+        "Spender": "Georg Nemetschek",
+        "Ort": "80469 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 40000.0,
+        "Spender": "Wilfried Pabst",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 40000.0,
+        "Spender": "Dr. Christoph Brand",
+        "Ort": "60329 Frankfurt",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 40000.0,
+        "Spender": "Michael Ilg",
+        "Ort": "10115 Berlin",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 75000.0,
+        "Spender": "STS Beteiligungs GmbH",
+        "Ort": "20097 Hamburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "SPD",
+        "Spende": 90000.0,
+        "Spender": "Sixt GmbH & Co. Autovermietung KG",
+        "Ort": "82049 Pullach",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 165000.0,
+        "Spender": "Dr. Bert Flossbach",
+        "Ort": "50679 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 500000.0,
+        "Spender": "Dieter Albert Richard Morszeck",
+        "Ort": "50678 Köln",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 37500.0,
+        "Spender": "Dr. Christoph Brand",
+        "Ort": "60329 Frankfurt",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 50000.0,
+        "Spender": "Deutsche Windtechnik AG",
+        "Ort": "28217 Bremen",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Dr. Karl Gerhold, c/o GETEC Energie Holding GmbH",
+        "Ort": "39128 Magdeburg",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Hans Helmuth Schmidt",
+        "Ort": "52353 Düren",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 100000.0,
+        "Spender": "Heristo AG",
+        "Ort": "49214 Bad Rothenfelde",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Frank Christoph Niedecker",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "FDP",
+        "Spende": 50000.0,
+        "Spender": "Johannes Peter Huth",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Johannes Peter Huth",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "Bündnis 90/ Die Grünen",
+        "Spende": 35001.0,
+        "Spender": "vbm- Verband der Bayerischen Metall- und Elektroindustrie e.V.",
+        "Ort": "80333 München",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 167000.0,
+        "Spender": "Torsten Toeller c/o Allegro Invest SE",
+        "Ort": "47809 Krefeld",
+        "Jahr": 2025
+    },
+    {
+        "Partei": "CDU",
+        "Spende": 50000.0,
+        "Spender": "Rick van Aerssen",
+        "Ort": "60487 Frankfurt am Main",
+        "Jahr": 2025
+    }
+]
